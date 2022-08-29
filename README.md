@@ -1,5 +1,7 @@
 # Kanagawa theme for Emacs
 
+![](https://upload.wikimedia.org/wikipedia/commons/a/a5/Tsunami_by_hokusai_19th_century.jpg)
+
 A theme inspired by the colors of the famous painting by Katsushika Hokusa
 
 Original Vim theme created by rebelot see: https://github.com/rebelot/kanagawa.nvim
