@@ -9,7 +9,7 @@
 ;; Version: 0.0.1
 ;; Keywords: themes
 ;; Homepage: TODO
-;; Package-Requires: ((emacs "26.1"))
+;; Package-Requires: ((emacs "26.1") (autothemer "0.2"))
 ;;
 ;; This file is not part of GNU Emacs.
 ;;
